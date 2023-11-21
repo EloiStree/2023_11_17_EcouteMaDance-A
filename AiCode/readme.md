@@ -7,9 +7,15 @@
 - tqdm
 - codecarbon
 
+
 ## Exemple
 
 > pip install fastai
+> pip install fasterai
+> pip install torch
+> pip install pytorch
+> pip install tqdm
+> pip install codecarbon
 
 # Ouvrir le .ipynb 
 
